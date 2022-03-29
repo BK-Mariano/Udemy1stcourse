@@ -1,2 +1,2 @@
 # Udemy1stcourse
-Git tutorials for Beginners - Complete Course
+Initial commit on github
